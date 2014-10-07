@@ -90,5 +90,5 @@ var readFromGoogleDocs = function (spreadsheetId, callback) {
 
 Gephi üzerinde örnek bir görselleştirme:
 
-![Sol](http://i.imgur.com/A6kkEQk.png "Sol")
+![Sol](https://scontent-b-ams.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10698690_10152734087742487_8516757143911846760_n.jpg?oh=c00c0104e753f2e5b1ca587dae2fa44d&oe=54C9DDA7 "Sol")
 
