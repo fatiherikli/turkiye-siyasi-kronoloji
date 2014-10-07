@@ -9,7 +9,7 @@ Google spreadsheets API üzerinden de erişebilirsiniz.
 
 URL: https://docs.google.com/spreadsheets/d/1hYoKyzS-NIkVag3YRb59BWiWCtiPtN24FaC8EWMml7k/
 
-Google spreadsheets'e javascript ile bağlanmak için örnek bir fonksiyon:
+Google Spreadsheets API'ın jQuery ile kullanımına bir örnek:
 
 ```javascript
 var readFromGoogleDocs = function (spreadsheetId, callback) {
